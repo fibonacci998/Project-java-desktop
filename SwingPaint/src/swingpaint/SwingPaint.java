@@ -24,7 +24,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author tuans
+ * @author tuan phan anh
  */
 public class SwingPaint extends Canvas{
 
